@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.abc.ecom"},{"l":"com.abc.ecom.controller"},{"l":"com.abc.ecom.entity"},{"l":"com.abc.ecom.exception"},{"l":"com.abc.ecom.model"},{"l":"com.abc.ecom.repository"},{"l":"com.abc.ecom.service"}];updateSearchResults();

@@ -1,0 +1,7 @@
+com.abc.ecom
+com.abc.ecom.controller
+com.abc.ecom.entity
+com.abc.ecom.exception
+com.abc.ecom.model
+com.abc.ecom.repository
+com.abc.ecom.service
